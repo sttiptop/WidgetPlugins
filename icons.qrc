@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>screenShot.png</file>
+        <file>screenShotPressed.png</file>
+        <file>tableIcon.png</file>
+        <file>TableIconPressed.png</file>
+        <file>tableIconSaveToFile.png</file>
+        <file>screenShotToFile.png</file>
+        <file>screenShotToFilePressed.png</file>
+        <file>tableIconSaveToFilePressed.png</file>
+    </qresource>
+</RCC>
